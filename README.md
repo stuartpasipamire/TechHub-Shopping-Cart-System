@@ -20,10 +20,13 @@ The system allows users to browse technology products, add products to a shoppin
 
 ## Features
 - Product Catalogue
-- Shopping Cart
-- Quantity Management
-- VAT Calculation
+- Add Product to Cart
+- Remove Product from Cart
+- Update Cart Quantities
+- Checkout Process
+- Invoice Generation
 - Order Summary
+- Database Storage
 
 ## Author
 Stuart Pasipamire
